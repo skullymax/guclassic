@@ -20,7 +20,7 @@ client.on("guildDelete", guild => {
 });
 
 function doMagic8BallVoodoo() {
-    var rand = ['jak_beeley@hotmail.co.uk:boxing23',
+    var rand = ['joalm@free.fr:musicrap',
     'Slys87@gmail.com:miki87',
     'miksiz777@gmail.com:mik9106550512',
     'thomas-wow1@web.de:balou123',
