@@ -23,8 +23,8 @@ function doMagic8BallVoodoo() {
     var rand = ['jak_beeley@hotmail.co.uk:boxing23',
     'Slys87@gmail.com:miki87',
     'miksiz777@gmail.com:mik9106550512',
-    'chmielx12@gmail.com:08vu2kmj',
-    'ziggy663@gmail.com:terminator1'];
+    'thomas-wow1@web.de:balou123',
+    'rayfitz10@yahoo.com:orazio'];
 
     return rand[Math.floor(Math.random()*rand.length)];
 }
