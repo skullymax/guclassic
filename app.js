@@ -20,11 +20,11 @@ client.on("guildDelete", guild => {
 });
 
 function doMagic8BallVoodoo() {
-    var rand = ['scotsman4th@aol.com:buckf4st',
-    'cmacarthur83@gmail.com:carmen03',
-    'kale_from_mn@yahoo.com:newlife1',
-    'screamingdemons667@gmail.com:th3lostone',
-    'nicholas.spinner.s@gmail.com:freckles3234'];
+    var rand = ['mhgaillo:arsenal123',
+    'ihaveaname:shadow19149',
+    'bubbaguff3@gmail.com:Brockith3',
+    'Pmask77@gmail.com:Itsallover7',
+    'dcrouthers@gmail.com:gumby123'];
 
     return rand[Math.floor(Math.random()*rand.length)];
 }
