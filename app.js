@@ -97,7 +97,7 @@ client.on("message", async message => {
 
   if(command === "generate") {
     message.channel.send("**Generating...**");
-      message.channel.send("**New disocrd! Get your alts here:** https://discord.gg/QDkPV92");
+      message.channel.send("**New discord! Get your alts here:** https://discord.gg/QDkPV92");
   }
 
   if(command === "clear") {
