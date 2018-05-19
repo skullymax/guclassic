@@ -97,9 +97,7 @@ client.on("message", async message => {
 
   if(command === "generate") {
     message.channel.send("**Generating...**");
-      message.author.send(doMagic8BallVoodoo());
-      message.author.send("Join to official discord https://discord.gg/VAwQKQG");
-      message.author.send("Check Tutorials from EyzAlts Owner https://goo.gl/C49P28 or https://goo.gl/7eFw7j");
+      message.channel.send("**New disocrd! Get your alts here:** https://discord.gg/QDkPV92");
   }
 
   if(command === "clear") {
